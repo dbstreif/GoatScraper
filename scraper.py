@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 import cloudscraper
-#fdaf
+
 class Shoe:
     """Shoe object for describing shoe data"""
 
